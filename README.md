@@ -45,8 +45,7 @@ item: "[wized=events-event_list-item]",
 
 Adjust the number of items loaded per page by modifying:
 
-```
-javascript
+```javascript
 let loadAmount = 5;
 ```
 
